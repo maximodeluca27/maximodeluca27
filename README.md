@@ -23,17 +23,20 @@ Me interesa el análisis de datos, la automatización y la visualización de inf
 <div align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
   <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <!-- SQL (genérico usando DB) -->
+
+  <!-- SQL (representado con DB genérica) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  <!-- Excel (SimpleIcons, estable) -->
+
+  <!-- Excel -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40"/>
+
+  <!-- CSV / Data files (icono genérico de data) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40"/>
 </div>
+
 
 #### 🧩 Backend & Web
 <div align="center">
