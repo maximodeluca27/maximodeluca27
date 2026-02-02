@@ -11,8 +11,8 @@ Me interesa el análisis de datos, la automatización y la visualización de inf
 ### 📈 Mis stats en GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maximodeluca&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximodeluca&layout=compact&theme=dracula"/>
 </div>
 
 ---
@@ -21,26 +21,34 @@ Me interesa el análisis de datos, la automatización y la visualización de inf
 
 #### 📊 Data & Análisis
 <div align="center">
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40"/>
+  <!-- SQL (genérico usando DB) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <!-- Matplotlib -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csv/csv-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>
+  <!-- Excel (SimpleIcons, estable) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40"/>
 </div>
 
 #### 🧩 Backend & Web
 <div align="center">
+  <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
 </div>
 
 #### 🧰 Herramientas & Entornos
 <div align="center">
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </div>
 
 ---
@@ -83,12 +91,10 @@ Me interesa el análisis de datos, la automatización y la visualización de inf
 ### 🫂 Contacto
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/maximodeluca/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_MAIL">
+  <a href="mailto:maximodeluca644@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
-
