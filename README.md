@@ -31,7 +31,7 @@ Me interesa el análisis de datos, la automatización y la visualización de inf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
   <!-- Excel -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="40"/>
 
   <!-- CSV / Data files (icono genérico de data) -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40"/>
