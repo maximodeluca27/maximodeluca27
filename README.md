@@ -1,16 +1,94 @@
-## Hi there 👋
+## Buenas! Soy Máximo 👋
 
-<!--
-**maximodeluca27/maximodeluca27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería en Sistemas de Información** (5° año)  
+📊 **Data Analyst Jr.**  
+👨‍🏫 Ayudante de Cátedra en Arquitectura de Computadores  
 
-Here are some ideas to get you started:
+Me interesa el análisis de datos, la automatización y la visualización de información para la toma de decisiones, combinando una base sólida en sistemas con herramientas de data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 Mis stats en GitHub
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### 📊 Data & Análisis
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csv/csv-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>
+</div>
+
+#### 🧩 Backend & Web
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</div>
+
+#### 🧰 Herramientas & Entornos
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</div>
+
+---
+
+### 💼 Experiencia
+
+#### 👨‍🏫 Ayudante de Cátedra – Arquitectura de Computadores  
+**UTN Buenos Aires** · Mar 2025 – Actualidad  
+
+- Desarrollo de **simuladores educativos en Python** para el análisis de arquitectura de memoria.
+- Procesamiento de datos con **Pandas, SQL y Excel**, analizando más de **200 accesos a memoria por simulación**.
+- Cálculo de métricas clave: **hits, misses, hit rate y latencia promedio**.
+- Implementación de **validaciones, controles de estado y visualización de resultados**, facilitando el análisis comparativo entre escenarios.
+- Dictado de clases presenciales y virtuales, brindando **apoyo académico y explicación de conceptos técnicos**.
+
+**Tecnologías:** Python · Pandas · SQL · Excel · Assembly
+
+---
+
+#### 📊 Consultor de Proyectos IT  
+**Evernext** · Ago 2024 – Dic 2024  
+
+- Diseño e implementación desde cero de un **sistema lógico de gestión de stock**.
+- Uso de **Excel avanzado** (tablas dinámicas, filtros, segmentaciones) para el seguimiento de inventario.
+- Normalización y validación de datos, mejorando la **calidad de la información base**.
+- Optimización del control operativo del stock en aproximadamente **un 50 %**.
+
+**Tecnologías:** Excel avanzado · Análisis de datos · Gestión operativa
+
+---
+
+### 🎯 Intereses
+- Análisis y visualización de datos
+- Automatización de procesos
+- Sistemas de información
+- Data aplicada a problemas reales de negocio
+
+---
+
+### 🫂 Contacto
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TU_MAIL">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+
