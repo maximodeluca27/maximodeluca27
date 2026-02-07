@@ -11,8 +11,11 @@ Me interesa el análisis de datos, la automatización y la visualización de inf
 ### 📈 Mis stats en GitHub
 
 <div align="center">
-  <img height="150em"
-       src="https://github-readme-stats.vercel.app/api?username=maximodeluca&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"/>
+
+![Profile views](https://komarev.com/ghpvc/?username=maximodeluca&style=flat-square&color=blueviolet)
+
+</div>
+
 </div>
 
 <div align="center">
