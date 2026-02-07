@@ -8,15 +8,30 @@ Me interesa el análisis de datos, la automatización y la visualización de inf
 
 ---
 
-### 📈 Mis stats en GitHub
+### 📈 Stats & Métricas técnicas
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=maximodeluca&style=flat-square&color=blueviolet)
+📊 **Datos procesados**  
++1.000 registros analizados en proyectos académicos y profesionales  
+
+📦 **Sistema de stock diseñado**  
+1 sistema lógico de gestión de stock  
+Optimización del control operativo en ~50 %  
+
+🐍 **Proyectos educativos de Data**  
+2 proyectos de análisis usando Pandas  
+Cálculo de métricas: hit rate, latencia promedio y promedios  
+
+🗄️ **SQL aplicado**  
+Consultas para análisis y validación de datos  
+Integración con flujos de análisis en Pandas  
+
+📈 **Visualización**  
+Gráficos comparativos y métricas con Matplotlib  
 
 </div>
 
-</div>
 
 <div align="center">
 
