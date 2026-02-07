@@ -11,8 +11,16 @@ Me interesa el análisis de datos, la automatización y la visualización de inf
 ### 📈 Mis stats en GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maximodeluca&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximodeluca&layout=compact&theme=dracula"/>
+  <img height="150em"
+       src="https://github-readme-stats.vercel.app/api?username=maximodeluca&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"/>
+</div>
+
+<div align="center">
+
+📊 Python · Pandas · SQL · Excel · Matplotlib  
+📦 Proyectos de análisis de datos y sistemas de stock  
+🎯 Enfoque en automatización y toma de decisiones  
+
 </div>
 
 ---
