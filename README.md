@@ -47,22 +47,23 @@ Gráficos comparativos y métricas con Matplotlib
 #### 📊 Data & Análisis
 <div align="center">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 
   <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
 
   <!-- SQL (representado con DB genérica) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
 
   <!-- Excel -->
-  <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="40"/>
+  <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="40" alt="Excel"/>
 
   <!-- CSV / Data files (icono genérico de data) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40" alt="Databricks"/>
+
+  <!-- Claude AI -->
+  <img src="https://img.shields.io/badge/Claude_AI-%23D97756?style=for-the-badge&logo=anthropic&logoColor=white" width="40" alt="Claude AI"/>
 </div>
-
-
 #### 🧩 Backend & Web
 <div align="center">
   <!-- Django -->
