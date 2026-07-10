@@ -11,15 +11,16 @@ Me interesa el análisis de datos, la automatización y la visualización de inf
 
 <div align="center">
 
-📊 **Datos procesados**  
-+1.000 registros analizados en proyectos académicos y profesionales  
+📊 **Dashboards para el Ministerio de Hacienda del Gobierno de la Ciudad de Buenos Aires**  
+Desarrollo de Tableros de Control para el seguimiento de evaluación de Personal con impacto en más de 5 Secretarías distintas del Ministerio de Hacienda.
+Más de 20 KPIs por Tablero de Control, utilizando Looker (Data Studio de Drive).
 
 📦 **Sistema de stock diseñado**  
-1 sistema lógico de gestión de stock  
+1 sistema lógico de gestión de stock usando Excel Avanzado.
 Optimización del control operativo en ~50 %  
 
 🐍 **Proyectos educativos de Data**  
-2 proyectos de análisis usando Pandas  
+2 proyectos de análisis usando Pandas, Python y Matplotlib.
 Cálculo de métricas: hit rate, latencia promedio y promedios  
 
 🗄️ **SQL aplicado**  
