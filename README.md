@@ -61,8 +61,8 @@ Gráficos comparativos y métricas con Matplotlib
   <!-- CSV / Data files (icono genérico de data) -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40"/>
 
-  <!-- Claude AI (Icono grande) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" width="48" style="fill: #D97756;"/>
+  <!-- Claude AI (Isotipo del asterisco naranja) -->
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/anthropic.png" width="46" alt="Claude AI"/>
 </div>
 
 #### 🧩 Backend & Web
