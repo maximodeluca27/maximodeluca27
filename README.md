@@ -1,8 +1,7 @@
 ## Buenas! Soy Máximo 👋
 
-🎓 Estudiante de **Ingeniería en Sistemas de Información** (5° año)  
-📊 **Data Analyst Jr.**  
-👨‍🏫 Ayudante de Cátedra en Arquitectura de Computadores  
+🎓 Estudiante próximo a graduarse (Diciembre 2026) de **Ingeniería en Sistemas de Información** (5° año)  
+📊 **Data Analyst**  
 
 Me interesa el análisis de datos, la automatización y la visualización de información para la toma de decisiones, combinando una base sólida en sistemas con herramientas de data.
 
@@ -84,7 +83,7 @@ Gráficos comparativos y métricas con Matplotlib
 
 ### 💼 Experiencia
 
-#### 👨‍🏫 Ayudante de Cátedra – Arquitectura de Computadores  
+#### 👨‍🏫 Data Analyst - Investigador   
 **UTN Buenos Aires** · Mar 2025 – Actualidad  
 
 - Desarrollo de **simuladores educativos en Python** para el análisis de arquitectura de memoria.
@@ -98,7 +97,7 @@ Gráficos comparativos y métricas con Matplotlib
 ---
 
 #### 📊 Consultor de Proyectos IT  
-**Evernext** · Ago 2024 – Dic 2024  
+**Evernex** · Ago 2024 – Dic 2024  
 
 - Diseño e implementación desde cero de un **sistema lógico de gestión de stock**.
 - Uso de **Excel avanzado** (tablas dinámicas, filtros, segmentaciones) para el seguimiento de inventario.
